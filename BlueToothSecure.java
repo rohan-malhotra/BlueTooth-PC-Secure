@@ -217,8 +217,7 @@ class BlueToothSecure implements ActionListener {
 			}
 		} catch (Exception ex) {
 
-			System.out.println("#### ERROR: " + ex);
-
+			System.out.println("##### ERROR: " + ex);
 		}
 	}
 
